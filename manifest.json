@@ -1,7 +1,7 @@
 {
-  "name": "service-example",
-  "vendor": "vtex",
-  "version": "0.2.22",
+  "name": "service-node",
+  "vendor": "reevolutionmx",
+  "version": "0.0.2",
   "title": "Service Example",
   "description": "Reference app for VTEX IO Services",
   "mustUpdateAt": "2018-01-04",
@@ -22,6 +22,18 @@
         "host": "httpstat.us",
         "path": "*"
       }
+    },
+    {
+      "name": "OMSViewer"
+    },
+    {
+      "name": "LogisticsAdmin"
+    },
+    {
+      "name": "ADMIN_DS"
+    },
+    {
+      "name": "POWER_USER_DS"
     },
     {
       "name": "colossus-fire-event"

@@ -9,6 +9,10 @@
     "status": {
       "path": "/_v/status/:code",
       "public": true
+    },
+    "_subscribeuser": {
+      "path": "/_v/reev/newsletter/subscribe",
+      "public": true
     }
   }
 }

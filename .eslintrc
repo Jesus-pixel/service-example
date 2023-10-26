@@ -1,5 +1,5 @@
 {
-  "extends": "vtex",
+  "extends": ["plugin:vue/essential", "@vue/prettier"],
   "root": true,
   "env": {
     "node": true
